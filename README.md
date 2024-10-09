@@ -6,4 +6,5 @@ This project presents the analysis of coffee sales data over a period of time us
 
 A timeline for date and slicers were created to allow for dynamic filtering in the dashboard by roast type, size and loyalty card usage. This dashboard visualizes some key metrics which includes sales over time, by country, and the top 5 valuable customers providing insights which can facilitate decision-making.
 
+
 ![CoffeeSalesDashboard_Excel](https://github.com/user-attachments/assets/c967aece-f96c-43c0-9693-3088eceb2b54)
